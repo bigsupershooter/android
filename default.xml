@@ -50,8 +50,7 @@
   <project path="device/google/accessory/demokit" name="CyanogenMod/android_device_google_accessory_demokit" groups="device" />
   <project path="device/htc/glacier" name="Team-Hydra/android_device_htc_glacier" />
   <project path="device/htc/jewel" name="Team-Hydra/android_device_htc_jewel" />
-  <project path="device/htc/m7-common" name="Team-Hydra/android_device_htc_m7-common" />
-  <project path="device/htc/m7spr" name="Team-Hydra/android_device_htc_m7spr" />
+  <project path="device/htc/m7lte" name="Team-Hydra/android_device_htc_m7lte" />
   <project path="device/htc/msm7x30-common" name="Team-Hydra/android_device_htc_msm7x30-common" />
   <project path="device/htc/msm8660-common" name="Team-Hydra/android_device_htc_msm8660-common" />
   <project path="device/htc/msm8960-common" name="Team-Hydra/android_device_htc_msm8960-common" />
