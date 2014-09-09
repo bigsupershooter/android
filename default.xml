@@ -67,6 +67,7 @@
   <project path="device/samsung/jflte" name="Team-Hydra/android_device_samsung_jflte" />
   <project path="device/samsung/klte" name="Team-Hydra/android_device_samsung_klte" />
   <project path="device/samsung/kltespr" name="Team-Hydra/android_device_samsung_kltespr" />
+  <project path="device/samsung/klteusc" name="Team-Hydra/android_device_samsung_klteusc" />
   <project path="device/samsung/klte-common" name="Team-Hydra/android_device_samsung_klte-common" />
   <project path="device/samsung/msm8960-common" name="CyanogenMod/android_device_samsung_msm8960-common" />
   <project path="device/samsung/msm8974-common" name="CyanogenMod/android_device_samsung_msm8974-common" />
