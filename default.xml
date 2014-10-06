@@ -66,6 +66,7 @@
   <project path="device/samsung/galaxys2-common" name="Team-Hydra/android_device_samsung_galaxys2-common" />
   <project path="device/samsung/jflte" name="Team-Hydra/android_device_samsung_jflte" />
   <project path="device/samsung/klte" name="Team-Hydra/android_device_samsung_klte" />
+  <project path="device/samsung/kltedv" name="Team-Hydra/android_device_samsung_kltedv" />
   <project path="device/samsung/kltespr" name="Team-Hydra/android_device_samsung_kltespr" />
   <project path="device/samsung/klteusc" name="Team-Hydra/android_device_samsung_klteusc" />
   <project path="device/samsung/klte-common" name="Team-Hydra/android_device_samsung_klte-common" />
