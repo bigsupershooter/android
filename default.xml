@@ -50,7 +50,6 @@
   <project path="device/htc/msm8660-common" name="bigsupershooter/android_device_htc_msm8660-common" />
   <project path="device/htc/shooter" name="bigsupershooter/android_device_htc_shooter" />
   <project path="device/htc/shooter-common" name="bigsupershooter/android_device_htc_shooter-common" />
-  <project path="device/htc/shooterk" name="bigsupershooter/android_device_htc_shooterk" />
   <project path="device/htc/shootervm" name="bigsupershooter/android_device_htc_shootervm" />
   <project path="device/qcom/common" name="LineageOS/android_device_qcom_common" />
   <project path="kernel/htc/msm8660" name="bigsupershooter/android_kernel_htc_msm8660" />
