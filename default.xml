@@ -337,7 +337,7 @@
   <project path="hardware/cm" name="LineageOS/android_hardware_cm" />
   <project path="hardware/invensense" name="LineageOS/android_hardware_invensense" groups="invensense" />
   <project path="hardware/libhardware" name="bigsupershooter/android_hardware_libhardware" groups="pdk" />
-  <project path="hardware/libhardware_legacy" name="TeamHydra/android_hardware_libhardware_legacy" groups="pdk" />
+  <project path="hardware/libhardware_legacy" name="bigsupershooter/android_hardware_libhardware_legacy" groups="pdk" />
   <project path="hardware/qcom/audio" name="LineageOS/android_hardware_qcom_audio" groups="qcom" />
   <project path="hardware/qcom/audio-caf" name="LineageOS/android_hardware_qcom_audio-caf" groups="caf" />
   <project path="hardware/qcom/bt" name="LineageOS/android_hardware_qcom_bt" groups="qcom" />
